@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Software Development
 - 🥅 2022 Goals: Finish my Projects xD
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to draw and play piano
 
 <br />
 
