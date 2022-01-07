@@ -2,9 +2,9 @@
 
 ## I'm a Student, Developer, and Gamer
 
-- 🌱 I’m currently learning Software Development
+- 🌱 Currently learning: Hack Development, Web Development
 - 🥅 2022 Goals: Finish my Projects xD
-- ⚡ Fun fact: I love to draw and play piano
+- ⚡ Fun fact about me: I like to draw and I play piano
 
 <br />
 
