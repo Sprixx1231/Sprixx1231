@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer, and Gamer
 
-- 🌱 Currently learning: Game Development
+- 🌱 Currently learning: Cheat Development
 - 🥅 2022 Goals: Finish my Projects xD
 - ⚡ Fun fact about me: I like to draw and I play piano
 
